@@ -10,7 +10,7 @@ public class employee {
 	public class empdetails
 
 	{
-		String name, department;
+		String iim, name, department;
 		int salary, did;
 		boolean availability;
 
